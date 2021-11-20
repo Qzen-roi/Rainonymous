@@ -1,5 +1,1 @@
-
-Nepali_Birth_Year = input('Nepali_Birth_Year: \n')
-age = 2078 - int (Nepali_Birth_Year )
-print ("""Ranjit's Here this is your real age """)
-print  (age)
+This is made for finding  the age by simply filling the input from the user , and need to put nepali birthday year only no need to fill up months or days  only  a birthyear is required to but filled  
