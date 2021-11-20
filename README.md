@@ -1,1 +1,4 @@
-This is made for finding  the age by simply filling the input from the user , and need to put nepali birthday year only no need to fill up months or days  only  a birthyear is required to be filled  
+We've added both Nepali and English (B.S and A.D).
+An users need to give input in terms of their birthyear
+only  birth year need to be fill up in input. if user add's  day and month
+program will going show error
