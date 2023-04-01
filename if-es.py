@@ -1,5 +1,5 @@
-' ' ' Q. If else statement using for make fractional number finder and Multiplication table by taking user input.
-' ' '
+''' Q. If else statement using for make fractional number finder and Multiplication table by taking user input.
+'''
 #!/usr/bin/env -python
 
 numb=int(input("    1) Fractional numbers founder. \n    2) Multiplication table.\n\nroot@RanjiTxRaii~# "))
